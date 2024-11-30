@@ -5,10 +5,10 @@ import Login from "./Pages/Login";
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <h1>Dice Hunter</h1>
       <div>
-        <ul>
+        <ul className="navlogin">
          <Link to="/"> <li>Home</li></Link>
         <Link to="/login">  <li>Login</li></Link>
         </ul>
