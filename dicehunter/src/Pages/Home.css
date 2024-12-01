@@ -1,0 +1,17 @@
+.Button_for_operation {
+  display: flex;
+  gap: 10px;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.userbox {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  gap: 10%;
+  margin-top: 5%;
+}
