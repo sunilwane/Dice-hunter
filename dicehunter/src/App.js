@@ -6,7 +6,6 @@ import Login from "./Pages/Login";
 function App() {
   return (
     <div className="">
-      <h1>Dice Hunter</h1>
       <div>
         <ul className="navlogin">
          <Link to="/"> <li>Home</li></Link>
